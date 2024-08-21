@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vbcyAUmOD1CabBwwPAf5OGE25Txx5Lv6sWiRMBL+4dg=",
+  "Source": "FormulaApp.Api",
+  "BasePath": "_content/FormulaApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

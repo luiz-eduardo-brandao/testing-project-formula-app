@@ -1,0 +1,11 @@
+C:\edu\studies\tdd\v1\FormulaApp\FormulaApp.Api\bin\Release\net8.0\publish\FormulaApp.Api.exe
+C:\edu\studies\tdd\v1\FormulaApp\FormulaApp.Api\bin\Release\net8.0\publish\appsettings.Development.json
+C:\edu\studies\tdd\v1\FormulaApp\FormulaApp.Api\bin\Release\net8.0\publish\appsettings.json
+C:\edu\studies\tdd\v1\FormulaApp\FormulaApp.Api\bin\Release\net8.0\publish\FormulaApp.Api.dll
+C:\edu\studies\tdd\v1\FormulaApp\FormulaApp.Api\bin\Release\net8.0\publish\FormulaApp.Api.deps.json
+C:\edu\studies\tdd\v1\FormulaApp\FormulaApp.Api\bin\Release\net8.0\publish\FormulaApp.Api.runtimeconfig.json
+C:\edu\studies\tdd\v1\FormulaApp\FormulaApp.Api\bin\Release\net8.0\publish\FormulaApp.Api.pdb
+C:\edu\studies\tdd\v1\FormulaApp\FormulaApp.Api\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\edu\studies\tdd\v1\FormulaApp\FormulaApp.Api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\edu\studies\tdd\v1\FormulaApp\FormulaApp.Api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\edu\studies\tdd\v1\FormulaApp\FormulaApp.Api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
